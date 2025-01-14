@@ -5,32 +5,20 @@ namespace Tekshirish
     {
         static void Main()
         {
-            string str = "qwErTy";
-            int s = str.Length;
-            Console.WriteLine("strni  uzunligi = " + s);
-
-            Console.WriteLine("sonni kiriting");
-            int n = Convert.ToInt32(Console.ReadLine());
-
-            if (s < n)
+            string str = "teLefOn";
+            int strLength = str.Length;
+            try
             {
-               Console.WriteLine($"katta harflarga o'girildi: { str.ToUpper()}");
-               
+                Console.Write("Sonni kiriting");
+                int x = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine($"Input: x={x}, str=\"{str}\"");
+                Console.WriteLine($"Output: {(strLength < x ? str.ToUpper() : str.ToLower())}");
+
             }
-            else
+            catch (FormatException)
             {
-               Console.WriteLine($"kichik harflarga o'girildi: { str.ToLower()}");  
+                Console.WriteLine("Invalid int");
             }
-
-
-
-
-
-
-
-
-
-
         }
     }
 }

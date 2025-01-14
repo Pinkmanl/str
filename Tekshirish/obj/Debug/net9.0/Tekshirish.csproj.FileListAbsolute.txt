@@ -12,3 +12,4 @@ c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\refint\Tekshirish.dll
 c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\Tekshirish.pdb
 c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\Tekshirish.genruntimeconfig.cache
 c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\ref\Tekshirish.dll
+c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\Tekshirish.sourcelink.json
