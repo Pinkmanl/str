@@ -1,0 +1,14 @@
+c:\Users\dilmurod\Desktop\str\Tekshirish\bin\Debug\net9.0\Tekshirish.exe
+c:\Users\dilmurod\Desktop\str\Tekshirish\bin\Debug\net9.0\Tekshirish.deps.json
+c:\Users\dilmurod\Desktop\str\Tekshirish\bin\Debug\net9.0\Tekshirish.runtimeconfig.json
+c:\Users\dilmurod\Desktop\str\Tekshirish\bin\Debug\net9.0\Tekshirish.dll
+c:\Users\dilmurod\Desktop\str\Tekshirish\bin\Debug\net9.0\Tekshirish.pdb
+c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\Tekshirish.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\Tekshirish.AssemblyInfoInputs.cache
+c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\Tekshirish.AssemblyInfo.cs
+c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\Tekshirish.csproj.CoreCompileInputs.cache
+c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\Tekshirish.dll
+c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\refint\Tekshirish.dll
+c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\Tekshirish.pdb
+c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\Tekshirish.genruntimeconfig.cache
+c:\Users\dilmurod\Desktop\str\Tekshirish\obj\Debug\net9.0\ref\Tekshirish.dll
