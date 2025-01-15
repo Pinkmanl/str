@@ -17,7 +17,7 @@ namespace Tekshirish
             if (x > y)
             {
                 result = "x is greater then y";
-                 }
+            }
             else if (x < y)
             {
                 result = "x is less then y";
@@ -26,9 +26,9 @@ namespace Tekshirish
             {
                 result = "x is equal to y";
             }
-            else 
+            else
             {
-         result ="x and y are not comparable";
+                result = "x and y are not comparable";
             }
             Console.WriteLine(result);
         }

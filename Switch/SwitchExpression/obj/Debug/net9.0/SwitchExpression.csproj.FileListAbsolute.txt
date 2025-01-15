@@ -1,0 +1,15 @@
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\bin\Debug\net9.0\SwitchExpression.exe
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\bin\Debug\net9.0\SwitchExpression.deps.json
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\bin\Debug\net9.0\SwitchExpression.runtimeconfig.json
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\bin\Debug\net9.0\SwitchExpression.dll
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\bin\Debug\net9.0\SwitchExpression.pdb
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\obj\Debug\net9.0\SwitchExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\obj\Debug\net9.0\SwitchExpression.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\obj\Debug\net9.0\SwitchExpression.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\obj\Debug\net9.0\SwitchExpression.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\obj\Debug\net9.0\SwitchExpression.sourcelink.json
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\obj\Debug\net9.0\SwitchExpression.dll
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\obj\Debug\net9.0\refint\SwitchExpression.dll
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\obj\Debug\net9.0\SwitchExpression.pdb
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\obj\Debug\net9.0\SwitchExpression.genruntimeconfig.cache
+C:\Users\dilmurod\Desktop\str\Switch\SwitchExpression\obj\Debug\net9.0\ref\SwitchExpression.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dilmurod\\Desktop\\str\\Ternar\\ternar\\ternar.csproj": {}
+    "C:\\Users\\dilmurod\\Desktop\\str\\Switch\\SwitchExpression\\SwitchExpression.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dilmurod\\Desktop\\str\\Ternar\\ternar\\ternar.csproj": {
+    "C:\\Users\\dilmurod\\Desktop\\str\\Switch\\SwitchExpression\\SwitchExpression.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dilmurod\\Desktop\\str\\Ternar\\ternar\\ternar.csproj",
-        "projectName": "ternar",
-        "projectPath": "C:\\Users\\dilmurod\\Desktop\\str\\Ternar\\ternar\\ternar.csproj",
+        "projectUniqueName": "C:\\Users\\dilmurod\\Desktop\\str\\Switch\\SwitchExpression\\SwitchExpression.csproj",
+        "projectName": "SwitchExpression",
+        "projectPath": "C:\\Users\\dilmurod\\Desktop\\str\\Switch\\SwitchExpression\\SwitchExpression.csproj",
         "packagesPath": "C:\\Users\\dilmurod\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dilmurod\\Desktop\\str\\Ternar\\ternar\\obj\\",
+        "outputPath": "C:\\Users\\dilmurod\\Desktop\\str\\Switch\\SwitchExpression\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dilmurod\\AppData\\Roaming\\NuGet\\NuGet.Config"
