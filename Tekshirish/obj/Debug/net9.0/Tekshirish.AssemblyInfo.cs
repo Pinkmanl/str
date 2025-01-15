@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tekshirish")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac996992185cb0af8ef8e433bd925f22f0af8b70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fd3de34860929bedd09aba94a8dc2f39be20d4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tekshirish")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tekshirish")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

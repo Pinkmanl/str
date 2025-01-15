@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dilmurod\\Desktop\\str\\Tekshirish\\Tekshirish.csproj": {}
+    "C:\\Users\\dilmurod\\Desktop\\str\\Tekshirish\\Tekshirish.csproj": {}
   },
   "projects": {
-    "c:\\Users\\dilmurod\\Desktop\\str\\Tekshirish\\Tekshirish.csproj": {
+    "C:\\Users\\dilmurod\\Desktop\\str\\Tekshirish\\Tekshirish.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dilmurod\\Desktop\\str\\Tekshirish\\Tekshirish.csproj",
+        "projectUniqueName": "C:\\Users\\dilmurod\\Desktop\\str\\Tekshirish\\Tekshirish.csproj",
         "projectName": "Tekshirish",
-        "projectPath": "c:\\Users\\dilmurod\\Desktop\\str\\Tekshirish\\Tekshirish.csproj",
+        "projectPath": "C:\\Users\\dilmurod\\Desktop\\str\\Tekshirish\\Tekshirish.csproj",
         "packagesPath": "C:\\Users\\dilmurod\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dilmurod\\Desktop\\str\\Tekshirish\\obj\\",
+        "outputPath": "C:\\Users\\dilmurod\\Desktop\\str\\Tekshirish\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dilmurod\\AppData\\Roaming\\NuGet\\NuGet.Config"

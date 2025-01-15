@@ -1,0 +1,15 @@
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\bin\Debug\net9.0\ternar.exe
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\bin\Debug\net9.0\ternar.deps.json
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\bin\Debug\net9.0\ternar.runtimeconfig.json
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\bin\Debug\net9.0\ternar.dll
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\bin\Debug\net9.0\ternar.pdb
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\obj\Debug\net9.0\ternar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\obj\Debug\net9.0\ternar.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\obj\Debug\net9.0\ternar.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\obj\Debug\net9.0\ternar.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\obj\Debug\net9.0\ternar.sourcelink.json
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\obj\Debug\net9.0\ternar.dll
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\obj\Debug\net9.0\refint\ternar.dll
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\obj\Debug\net9.0\ternar.pdb
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\obj\Debug\net9.0\ternar.genruntimeconfig.cache
+C:\Users\dilmurod\Desktop\str\Ternar\ternar\obj\Debug\net9.0\ref\ternar.dll
